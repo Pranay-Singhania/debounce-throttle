@@ -1,4 +1,4 @@
-# Debounce-Throttle
+# Debounce-Throttle :
 
 ## What is Debouncing? 
 - Debouncing is used to add a time gap between two consecutive invocations of a function call.
